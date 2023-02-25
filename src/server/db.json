@@ -1,0 +1,7 @@
+{
+    "options":[
+        {"id":1,"label":"cover 405","value":"cover 405","color":"green"},
+        {"id":2,"label":"cover 2008","value":"cover 2008","color":"blue"},
+        {"id":3,"label":"cover 206","value":"cover 206","color":"red"}
+    ]
+}
